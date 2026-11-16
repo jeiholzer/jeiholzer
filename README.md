@@ -22,4 +22,4 @@ PMP, SSGI Certified Agile Professional, and the AI Engineering Challenge. PMI-AC
 
 ## Get in touch
 
-The best place to reach me is [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE).
+The best place to reach me is [LinkedIn](https://www.linkedin.com/in/joel-eiholzer-pmp-7629372/).
