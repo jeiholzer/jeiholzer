@@ -12,7 +12,7 @@ Today I work as an independent consultant, taking on both project management and
 
 ## Still hands-on
 
-I keep my technical skills current by building real things. Right now that includes two web projects of my own, where I set up and run the Linux servers, databases and applications myself. I also built an AI-assisted job search system using Claude Code: a local web app backed by SQLite that runs scheduled searches across job boards, scores postings against my criteria, and tracks applications. I'm also learning Python.
+I keep my technical skills current by building real things. Right now that includes two web projects of my own, where I set up and run the Linux servers, databases and applications myself. I was also the product owner for an AI-built web application: I wrote the product brief and requirements, directed Claude Code to build a Node.js and SQLite tracking app, and designed agentic AI workflows that gather listings from public websites daily, deduplicate them, score them against defined criteria and queue them for my review. I'm also learning Python.
 
 Tools and tech I work with: SQL and MySQL, SQLite, JavaScript, REST APIs, Linux (Amazon Linux), cPanel/WHM, Git and GitHub, Claude Code and other AI tools, Jira and Confluence.
 
